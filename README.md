@@ -1,0 +1,53 @@
+# Portfolio2
+
+## Installation
+No installation process required.
+
+## Usage
+the point of this page is to show you what iv'e learned so far in coding
+
+## Credits
+https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+https://www.w3schools.com/
+My classmates and TA's were also a big help in this process.
+https://getbootstrap.com/docs/3.4/
+
+
+## License
+MIT License
+
+Copyright (c) [2019] [DeVante Bailey]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+<img src="portfolio2/images/Screen Shot 2019-11-02 at 9.24.54 AM.png" height="50" width="30">
+
+<img src="portfolio2/images/Screen Shot 2019-11-02 at 9.27.30 AM.png" height="50"
+width="30">
+
+<img src="portfolio2/images/Screen Shot 2019-11-02 at 9.27.04 AM.png" height="50"
+width="30">
+
+<img src="portfolio2/images/Screen Shot 2019-11-02 at 9.26.46 AM.png" height="50"
+width="30">
+
+<img src="portfolio2/images/Screen Shot 2019-11-02 at 9.26.05 AM.png" height="50"
+width="30">
+
